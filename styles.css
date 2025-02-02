@@ -1,0 +1,35 @@
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin: 5px; 
+}
+
+#red {
+    background-color: #f00;
+}
+
+#yellow {
+    background-color: #ffc300;
+}
+
+#blue {
+    background-color: #0000ff;
+    /* #3498db;  */
+}
+
+#orange {
+    background: #FF5733;
+}
+
+#green {
+    background-color: #008000;
+}
+
+#purple {
+    background-color:#4a235a;
+}
+
+#random {
+    background-color: #faebd7;
+}
